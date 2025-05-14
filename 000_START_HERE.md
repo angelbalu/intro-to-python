@@ -2,7 +2,7 @@
 
 Welcome!
 
-This is a series of exercises designed to help you learn the
+This is a series of exercises designed to help you learn the 
 fundamentals of programming necessary to succeed in the
 Makers coding assessment. We'll be using Python, but the
 ideas will apply to any language.
